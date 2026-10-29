@@ -1,6 +1,19 @@
 {
-  "legacy": "TODO(dataset): run inventory-app's scripts/minisites/legacy-minisite.mjs",
+  "legacy": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/",
+  "family": "BAR",
   "menuSecondColumnFrom": 7,
-  "curators": [],
+  "curators": [
+    {
+      "name": "",
+      "href": "",
+      "logo": "legacy/x.gif",
+      "space": 35
+    }
+  ],
+  "design": {
+    "name": "Yasar University Izmir, Turkey",
+    "logo": "legacy/yasar.png",
+    "href": "http://www.yasar.edu.tr/en/"
+  },
   "maps": 0
 }

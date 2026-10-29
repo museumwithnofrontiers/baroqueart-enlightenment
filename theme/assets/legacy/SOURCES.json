@@ -1,4 +1,97 @@
 {
-  "about": "TODO(dataset): written by inventory-app's scripts/minisites/legacy-minisite.mjs, with every picture of the frame taken from the legacy exhibition.",
-  "files": {}
+  "about": "The frame this website takes from legacy Discover Baroque Art's virtual exhibition The Age of Enlightenment (exhibitions/BAR/enlightenment/), each file as legacy serves it, byte for byte; the curators' and the designer's logos come from the exhibitions' shared sponsor_logo folder. tests/assets.test.js checks every file against its hash.",
+  "files": {
+    "theme/assets/legacy/arrow_inner_black.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/arrow_inner_black.gif",
+      "sha256": "a969e5e62fe3c75dcb4e05ef1ca4e38f67a528916db802c229511b44567bd87a"
+    },
+    "theme/assets/legacy/bg_fading_left.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/bg_fading_left.gif",
+      "sha256": "d7e508dc8e746ee9a354fc068c05dbda5039898f1be28cd1d6eebc451eaeff4e"
+    },
+    "theme/assets/legacy/bg_fading_right.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/bg_fading_right.gif",
+      "sha256": "e00204ff981eb5687185f6acffea5e1778b06d1fd745c72f6f7d08a77369ef05"
+    },
+    "theme/assets/legacy/exhibition_bg_ar.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/exhibition_bg_ar.jpg",
+      "sha256": "1b6bb6f121dbc8b0c198132a28db69de096b8fa78d1b40a89309563a2e002004"
+    },
+    "theme/assets/legacy/exhibition_bg.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/exhibition_bg.jpg",
+      "sha256": "a3c5df4af9a3488d7e8c2cee4a274a566decb19c4fd6a0a3eaf56b1489000593"
+    },
+    "theme/assets/legacy/home_bg_ar.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/home_bg_ar.jpg",
+      "sha256": "65d2d91f88d082911018d3fbad812b717488557339840925aa392f97e9613b32"
+    },
+    "theme/assets/legacy/home_bg.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/home_bg.jpg",
+      "sha256": "df6b555df42dc1b5581c229b8b9abbfd0da83d888ae8e064b191eb1ad3a532a1"
+    },
+    "theme/assets/legacy/ico_item_selected.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/ico_item_selected.gif",
+      "sha256": "8e4e35eebb1dda3a1495a2dc7a9d1a4611d9118f3f683a269823da701989feb5"
+    },
+    "theme/assets/legacy/ico_item.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/ico_item.gif",
+      "sha256": "0b630172707e2ed687751dd70acb096ef905a3ee56421c650c227520e10030c8"
+    },
+    "theme/assets/legacy/intro_bg_ar.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/intro_bg_ar.jpg",
+      "sha256": "eab300bffa14f4789ca49fbb95e6df75fc0632e3311c0b14114424c93b1449cc"
+    },
+    "theme/assets/legacy/intro_bg.jpg": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/intro_bg.jpg",
+      "sha256": "408f393051805095532b29e0f672f03079f67e0363c30146985b2d76d5a314a3"
+    },
+    "theme/assets/legacy/logo_ar.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/logo_ar.gif",
+      "sha256": "390d55f774a7cfeeddfde07133c868643d6022cd7c180e66fd54821974510bdf"
+    },
+    "theme/assets/legacy/logo_de.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/logo_de.gif",
+      "sha256": "984726270b1b039279f70303dacaffe5130c47c1dd7950287a6dd02b81e52616"
+    },
+    "theme/assets/legacy/logo_en.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/logo_en.gif",
+      "sha256": "ab872d8a1238fe2568a7e2c536b98d1ea582c3664e00a4bd5cfd19303a73ee34"
+    },
+    "theme/assets/legacy/logo_es.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/logo_es.gif",
+      "sha256": "cebc60884416a0eb6c8f9cd8b3d90f2bf7d94a3c86c87c746c439d692ee0c08b"
+    },
+    "theme/assets/legacy/logo_fr.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/logo_fr.gif",
+      "sha256": "e0ddf333b78887d73a806ae7cfd59f5b82a18cd011366ad327df6dd42a7fc790"
+    },
+    "theme/assets/legacy/logo_it.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/logo_it.gif",
+      "sha256": "3ea1be1fdbe1df3781954af1a1f2b5a51a2e73362005c6f9ff1dcaed406d3415"
+    },
+    "theme/assets/legacy/logo_pt.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/logo_pt.gif",
+      "sha256": "d9a01fa90f635d82569fec07dbb9a21f986db3ca2a7b828cc206130be75acba6"
+    },
+    "theme/assets/legacy/logo_se.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/logo_se.gif",
+      "sha256": "b7f99b6269e5682d8554c42f78410fc95c146a60c79d3ce55d55426c880b717e"
+    },
+    "theme/assets/legacy/logo_tr.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/logo_tr.gif",
+      "sha256": "ba4d27de7c136a6d54aeb0dcc0b70372edd636641128607db6bd58532e0e2517"
+    },
+    "theme/assets/legacy/print_dark.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/enlightenment/images/print_dark.gif",
+      "sha256": "49894d52c06b6f8e1c29b0b3f82245bcd3f439108e4cd3a7c4f16360ed896742"
+    },
+    "theme/assets/legacy/x.gif": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/sponsor_logo/x.gif",
+      "sha256": "7ee756b01de4464eaf4b71b85779bdb7a955b4d2af89faa3d29c4906d0ece1db"
+    },
+    "theme/assets/legacy/yasar.png": {
+      "source": "https://baroqueart.museumwnf.org/exhibitions/BAR/sponsor_logo/yasar.png",
+      "sha256": "36d460d80fb84e7345b7bedc6d605412feef3cb6f284d5f45431b8e4b1064757"
+    }
+  }
 }
